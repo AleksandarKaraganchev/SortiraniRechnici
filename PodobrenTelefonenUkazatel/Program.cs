@@ -12,7 +12,7 @@ namespace PodobrenTelefonenUkazatel
         {
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Dictionary<string, string> phonebook = new Dictionary<string, string>();
-            var sortedPhonebook = new SortedDictionary<string, string>();
+            SortedDictionary<string, string> sortedPhonebook = new SortedDictionary<string, string>();
             while (true)
             {
                 string input = Console.ReadLine();
