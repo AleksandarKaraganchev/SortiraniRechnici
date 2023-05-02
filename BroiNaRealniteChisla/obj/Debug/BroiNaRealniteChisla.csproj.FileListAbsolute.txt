@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\SortiraniRechnici\BroiNaRealniteChisla\bin\Debug\BroiNaRealniteChisla.exe.config
+D:\Програмиране\new tasks\SortiraniRechnici\BroiNaRealniteChisla\bin\Debug\BroiNaRealniteChisla.exe
+D:\Програмиране\new tasks\SortiraniRechnici\BroiNaRealniteChisla\bin\Debug\BroiNaRealniteChisla.pdb
+D:\Програмиране\new tasks\SortiraniRechnici\BroiNaRealniteChisla\obj\Debug\BroiNaRealniteChisla.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\SortiraniRechnici\BroiNaRealniteChisla\obj\Debug\BroiNaRealniteChisla.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\SortiraniRechnici\BroiNaRealniteChisla\obj\Debug\BroiNaRealniteChisla.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\SortiraniRechnici\BroiNaRealniteChisla\obj\Debug\BroiNaRealniteChisla.exe
+D:\Програмиране\new tasks\SortiraniRechnici\BroiNaRealniteChisla\obj\Debug\BroiNaRealniteChisla.pdb
